@@ -3,7 +3,7 @@ import java.io.File;
 
 public class Pkcs11WrapperLoader {
 
-    public static final String WRAPPER = "pkcs11wrapper-win-x86.dll";
+    public static final String WRAPPER = "pkcs11wrapper.dll";
 
     public static void main(String[] args) {
 
